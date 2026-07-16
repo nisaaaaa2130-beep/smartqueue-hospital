@@ -1,2 +1,2 @@
-# smartqueue-hospital
-Web sistem antrian rumah sakit berbasis AI untuk mempermudah pendaftaran pasien dan analisis keluhan.
+# perpustakaan-digital-anak
+Web aplikasi perpustakaan digital anak untuk mempermudah peminjaman buku dan pengelolaan data pustaka secara online.
